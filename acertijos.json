@@ -1,0 +1,245 @@
+{
+  "acertijos": [
+    {
+      "pregunta": "Tengo agujas pero no coso, tengo números pero no soy matemático. ¿Qué soy?",
+      "respuestas": [
+        "reloj",
+        "reloj de pared",
+        "cronometro",
+        "cronómetro"
+      ],
+      "pistas": [
+        "Mido el tiempo",
+        "Estoy en la pared",
+        "Hago tic-tac"
+      ],
+      "dificultad": "fácil",
+      "categoria": "objetos"
+    },
+    {
+      "pregunta": "Blanco por dentro, verde por fuera. Si quieres que te lo diga, espera.",
+      "respuestas": [
+        "pera",
+        "la pera"
+      ],
+      "pistas": [
+        "Es una fruta",
+        "Tiene forma de gota",
+        "Rima con espera"
+      ],
+      "dificultad": "fácil",
+      "categoria": "frutas"
+    },
+    {
+      "pregunta": "Vuelo sin alas, lloro sin ojos. Donde quiera que voy, la oscuridad me sigue. ¿Qué soy?",
+      "respuestas": [
+        "nube",
+        "las nubes",
+        "una nube"
+      ],
+      "pistas": [
+        "Estoy en el cielo",
+        "Traigo lluvia",
+        "Bloqueo el sol"
+      ],
+      "dificultad": "medio",
+      "categoria": "naturaleza"
+    },
+    {
+      "pregunta": "Tengo ciudades, pero no casas. Tengo montañas, pero no árboles. Tengo agua, pero no peces. ¿Qué soy?",
+      "respuestas": [
+        "mapa",
+        "un mapa",
+        "el mapa"
+      ],
+      "pistas": [
+        "Me usan para ubicarse",
+        "Soy de papel",
+        "Muestro lugares"
+      ],
+      "dificultad": "medio",
+      "categoria": "objetos"
+    },
+    {
+      "pregunta": "Cuanto más seco, más mojado. ¿Qué soy?",
+      "respuestas": [
+        "toalla",
+        "la toalla",
+        "una toalla"
+      ],
+      "pistas": [
+        "Me usan después del baño",
+        "Absorbo agua",
+        "Cuelgo en el baño"
+      ],
+      "dificultad": "fácil",
+      "categoria": "objetos"
+    },
+    {
+      "pregunta": "Todos me pisan, todos me usan, pero nadie me ve. ¿Qué soy?",
+      "respuestas": [
+        "camino",
+        "el camino",
+        "sendero",
+        "senda"
+      ],
+      "pistas": [
+        "Conecta lugares",
+        "La gente camina sobre mí",
+        "Puedo ser de tierra"
+      ],
+      "dificultad": "medio",
+      "categoria": "lugares"
+    },
+    {
+      "pregunta": "Tengo dientes pero no como. ¿Qué soy?",
+      "respuestas": [
+        "peine",
+        "el peine",
+        "sierra",
+        "engranaje",
+        "cremallera"
+      ],
+      "pistas": [
+        "Ordeno el cabello",
+        "Tengo muchas puntas",
+        "Soy de plástico"
+      ],
+      "dificultad": "fácil",
+      "categoria": "objetos"
+    },
+    {
+      "pregunta": "En el circo soy el rey, con mi cara pintada y mi nariz colorada. ¡Hago reír a la gente pero a veces doy miedo! ¿Quién soy?",
+      "respuestas": [
+        "payaso",
+        "el payaso",
+        "un payaso",
+        "clown"
+      ],
+      "pistas": [
+        "Trabajo en el circo",
+        "Hago bromas",
+        "Mi nariz es roja"
+      ],
+      "dificultad": "fácil",
+      "categoria": "personajes"
+    },
+    {
+      "pregunta": "Redondo como una pelota, dulce como la miel, me comes en el desayuno con café o con té. ¿Qué soy?",
+      "respuestas": [
+        "donut",
+        "dona",
+        "rosquilla",
+        "rosquita"
+      ],
+      "pistas": [
+        "Tengo un agujero en el centro",
+        "Soy dulce",
+        "Me fríen en aceite"
+      ],
+      "dificultad": "fácil",
+      "categoria": "comida"
+    },
+    {
+      "pregunta": "Si me nombras, desaparezco. ¿Qué soy?",
+      "respuestas": [
+        "silencio",
+        "el silencio"
+      ],
+      "pistas": [
+        "Soy la ausencia de algo",
+        "Existo cuando no hay ruido",
+        "Los bibliotecarios me aman"
+      ],
+      "dificultad": "difícil",
+      "categoria": "conceptos"
+    },
+    {
+      "pregunta": "Cuanto más le quitas, más grande se hace. ¿Qué es?",
+      "respuestas": [
+        "hoyo",
+        "el hoyo",
+        "agujero",
+        "el agujero",
+        "hueco"
+      ],
+      "pistas": [
+        "Se hace cavando",
+        "Puede ser profundo",
+        "Los mineros me hacen"
+      ],
+      "dificultad": "medio",
+      "categoria": "conceptos"
+    },
+    {
+      "pregunta": "Tengo cola pero no soy animal, tengo cabeza pero no pienso. Me lanzan al aire y decido por ti. ¿Qué soy?",
+      "respuestas": [
+        "moneda",
+        "la moneda",
+        "una moneda"
+      ],
+      "pistas": [
+        "Sirvo para comprar",
+        "Tengo dos caras",
+        "Estoy hecha de metal"
+      ],
+      "dificultad": "medio",
+      "categoria": "objetos"
+    },
+    {
+      "pregunta": "Soy amarillo por fuera, blanco por dentro. Los monos me aman y los niños también. ¿Qué soy?",
+      "respuestas": [
+        "plátano",
+        "banana",
+        "el plátano",
+        "la banana"
+      ],
+      "pistas": [
+        "Crezco en racimos",
+        "Soy tropical",
+        "Tengo potasio"
+      ],
+      "dificultad": "fácil",
+      "categoria": "frutas"
+    },
+    {
+      "pregunta": "Entro seco y salgo mojado, mientras más me secan más mojado quedo. ¿Qué soy?",
+      "respuestas": [
+        "té",
+        "el té",
+        "café",
+        "el café",
+        "chocolate"
+      ],
+      "pistas": [
+        "Soy una bebida",
+        "Me preparan con agua caliente",
+        "Tengo sabor"
+      ],
+      "dificultad": "difícil",
+      "categoria": "bebidas"
+    },
+    {
+      "pregunta": "Tengo ojos pero no veo, tengo papas pero no como. ¿Qué soy?",
+      "respuestas": [
+        "papa",
+        "patata",
+        "la papa",
+        "la patata"
+      ],
+      "pistas": [
+        "Crezco bajo tierra",
+        "Me pueden freír",
+        "Tengo almidón"
+      ],
+      "dificultad": "medio",
+      "categoria": "comida"
+    }
+  ],
+  "ganadores": {
+    "Cristopher": 2,
+    "RONOVA": 1
+  },
+  "version": "1.0",
+  "description": "Acertijos de Poncho el Payaso"
+}

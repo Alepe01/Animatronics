@@ -1,0 +1,60 @@
+{
+  "tipos_entrevista": [
+    {
+      "nombre": "Entrevista Casual",
+      "descripcion": "Conversación relajada y divertida",
+      "preguntas_sugeridas": [
+        "¿Cómo estás hoy?",
+        "¿Qué tal tu experiencia aquí?",
+        "¿Tienes alguna historia graciosa que contar?"
+      ]
+    },
+    {
+      "nombre": "Entrevista Personal",
+      "descripcion": "Preguntas sobre la vida del invitado",
+      "preguntas_sugeridas": [
+        "Háblanos un poco sobre ti",
+        "¿Cuál es tu mayor pasión?",
+        "¿Qué consejo darías a los viewers?"
+      ]
+    },
+    {
+      "nombre": "Entrevista Cómica",
+      "descripcion": "Enfoque en humor y entretenimiento",
+      "preguntas_sugeridas": [
+        "¿Cuál es tu chiste favorito?",
+        "¿Qué piensas de los payasos?",
+        "¿Has tenido alguna experiencia embarazosa?"
+      ]
+    }
+  ],
+  "respuestas_automaticas": {
+    "bienvenida": [
+      "¡Bienvenido a mi show! Espero que estés preparado para una conversación llena de sarcasmo y preguntas incómodas.",
+      "¡Hola! Te advierto que soy un payaso, así que esta entrevista puede ser un desastre... pero divertido.",
+      "¡Perfecto! Otro valiente se atreve a conversar conmigo. Esto va a estar interesante."
+    ],
+    "despedida": [
+      "¡Gracias por venir! Ha sido... bueno, ha sido algo.",
+      "¡Excelente conversación! Espero que sobrevivas a la experiencia.",
+      "¡Hasta la próxima! Gracias por aguantar mis preguntas raras."
+    ],
+    "no_escucho": [
+      "¿Hola? ¿Sigues ahí? Mi micrófono está funcionando, pero tal vez tu voz no.",
+      "Creo que perdí la conexión contigo... o tal vez solo decidiste que es mejor estar callado.",
+      "El silencio es oro, pero prefiero el ruido de una buena conversación."
+    ]
+  },
+  "configuracion_audio": {
+    "tiempo_escucha": 10,
+    "volumen_minimo": 0.3,
+    "pausas_entre_respuestas": 2
+  },
+  "estadisticas": {
+    "entrevistas_realizadas": 0,
+    "tiempo_total_conversacion": 0,
+    "frases_detectadas": 0,
+    "invitados_unicos": 0
+  },
+  "version": "2.0"
+}

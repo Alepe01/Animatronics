@@ -1,0 +1,84 @@
+{
+  "predicciones_personales": {},
+  "frases_mysticas": [
+    "Las cartas me susurran...",
+    "Mi bola de cristal se nubla...",
+    "Los espíritus del circo me dicen...",
+    "Las estrellas revelan...",
+    "El cosmos payaso me muestra...",
+    "Mi tercer ojo de payaso ve...",
+    "Los antepasados del circo confirman...",
+    "La energía universal indica...",
+    "Las fuerzas místicas revelan...",
+    "Mi sabiduría ancestral dice...",
+    "Los vientos del destino murmuran...",
+    "La magia antigua predice..."
+  ],
+  "predicciones_genericas": [
+    {
+      "tipo": "amor",
+      "prediccion": "Veo romance en tu futuro... ¡pero también veo que hueles raro!",
+      "probabilidad": "73%"
+    },
+    {
+      "tipo": "dinero",
+      "prediccion": "El dinero llegará a ti... cuando dejes de ser tan tacaño conmigo",
+      "probabilidad": "42%"
+    },
+    {
+      "tipo": "salud",
+      "prediccion": "Tu salud mejorará... si dejas de comer tanto y haces ejercicio",
+      "probabilidad": "67%"
+    },
+    {
+      "tipo": "trabajo",
+      "prediccion": "Un cambio laboral se aproxima... espero que sea para mejor",
+      "probabilidad": "55%"
+    },
+    {
+      "tipo": "viaje",
+      "prediccion": "Viajarás pronto... aunque sea solo al supermercado",
+      "probabilidad": "89%"
+    },
+    {
+      "tipo": "familia",
+      "prediccion": "Tu familia tendrá noticias... probablemente de que estás loco hablando conmigo",
+      "probabilidad": "91%"
+    },
+    {
+      "tipo": "amistad",
+      "prediccion": "Un amigo te decepcionará... o tal vez ya lo hizo y no te diste cuenta",
+      "probabilidad": "78%"
+    },
+    {
+      "tipo": "estudios",
+      "prediccion": "Aprenderás algo nuevo... como que hablarle a un payaso no es normal",
+      "probabilidad": "99%"
+    },
+    {
+      "tipo": "peligro",
+      "prediccion": "Evita los lugares oscuros... especialmente los circos abandonados",
+      "probabilidad": "66%"
+    },
+    {
+      "tipo": "suerte",
+      "prediccion": "La suerte estará de tu lado... pero yo no, porque soy grosero",
+      "probabilidad": "33%"
+    },
+    {
+      "tipo": "secreto",
+      "prediccion": "Alguien te oculta algo... probablemente que piensa que estás loco",
+      "probabilidad": "85%"
+    },
+    {
+      "tipo": "sorpresa",
+      "prediccion": "Una sorpresa te espera... y no será agradable",
+      "probabilidad": "74%"
+    }
+  ],
+  "version": "1.0",
+  "description": "Predicciones de Poncho el Clarividente",
+  "estadisticas": {
+    "predicciones_dadas": 2
+  }
+}

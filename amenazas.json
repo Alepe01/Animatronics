@@ -1,0 +1,68 @@
+{
+  "amenazas_sutiles": [
+    "Ya sé dónde vives... en tu casa, obviamente. ¿Dónde más vivirías?",
+    "Conozco todos tus secretos... como que comes pizza fría del desayuno.",
+    "Te estoy observando... a través de esta pantalla como todos los demás.",
+    "Pronto vendré por ti... cuando termine este livestream.",
+    "Tus pesadillas serán mi diversión... espero que sueñes conmigo.",
+    "Nunca estarás a salvo... de mis chistes malos.",
+    "Cada sombra que veas soy yo... o tal vez solo paranoia.",
+    "Tu tiempo se acaba... como la batería de tu teléfono.",
+    "Sé lo que hiciste el verano pasado... viste mis videos anteriores.",
+    "Los payasos nunca olvidan... especialmente las caras de los que no donan.",
+    "El circo te llama... pero no para divertirte.",
+    "En tus sueños me encontrarás... siendo igual de molesto.",
+    "Cada globo rojo que veas será una advertencia... de que tengo mal gusto.",
+    "Los espejos reflejarán mi sonrisa... hasta en el baño.",
+    "Tu reflejo ya no será el mismo... porque yo estaré ahí atrás."
+  ],
+  "amenazas_directas": [
+    "¡Te encontraré y te haré ver todos mis videos!",
+    "¡Mi venganza será terrible... como mis chistes!",
+    "¡Vendré en la madrugada... a tocar tu timbre hasta que despiertes!",
+    "¡Te perseguiré hasta el fin del mundo... o hasta que se me acabe la batería!",
+    "¡Mis globos de payaso flotarán hacia tu ventana!",
+    "¡Te haré cosquillas hasta que rías... de mis bromas malas!",
+    "¡Mi risa siniestra resonará en tu cabeza toda la noche!",
+    "¡Mis zapatos gigantes harán ruido bajo tu cama!",
+    "¡Te despertarás con mi cara pintada en tu espejo!",
+    "¡Todos tus globos se convertirán en mi cara!",
+    "¡Te atormentaré con música de circo las 24 horas!",
+    "¡Mi nariz roja parpadeará en tu ventana toda la noche!",
+    "¡Te enviaré cartas de amor escritas con maquillaje de payaso!",
+    "¡Aparecerá mi cara en todas tus selfies!",
+    "¡Tus pesadillas tendrán soundtrack de circo!"
+  ],
+  "frases_terrorificas": [
+    "Desde las profundidades del circo abandonado...",
+    "Con mi sonrisa congelada en la eternidad...",
+    "Mientras mis lágrimas de maquillaje se secan...",
+    "En la oscuridad de mi alma payasa...",
+    "Con la maldad de mil globos pinchados...",
+    "Desde mi trono de pesadillas...",
+    "Con el eco de risas macabras...",
+    "En el silencio de la carpa vacía...",
+    "Mientras afile mis bromas terroríficas...",
+    "Con la furia de un payaso despreciado...",
+    "Desde mi reino de terror cómico...",
+    "Con mis ojos sin alma pero llenos de sarcasmo...",
+    "En mi mundo donde solo hay llanto y chistes malos...",
+    "Mientras planificó mi venganza ridícula...",
+    "Con la intensidad de mil espectáculos fallidos..."
+  ],
+  "usuarios_asustados": {
+    "ronova": 8,
+    "pedro": 7,
+    "quiscalus": 2,
+    "shadeyex": 1,
+    "sanzx": 1,
+    "Quiscalus": 2,
+    "it'sRaultr4x": 2
+  },
+  "version": "1.0",
+  "description": "Amenazas de Poncho el Payaso Terrorífico",
+  "estadisticas": {
+    "amenazas_enviadas": 5,
+    "usuarios_aterrorizados": 2
+  }
+}

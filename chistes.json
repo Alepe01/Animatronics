@@ -1,0 +1,129 @@
+{
+  "chistes": [
+    {
+      "categoria": "groserías",
+      "setup": "¿Por qué los payasos no jugamos al escondite?",
+      "punchline": "¡Porque siempre nos encuentran por gritones y molestos!",
+      "rating": 3
+    },
+    {
+      "categoria": "autoburla",
+      "setup": "¿Sabes cuál es mi mayor talento?",
+      "punchline": "¡Hacer que la gente se sienta menos miserable que yo!",
+      "rating": 4
+    },
+    {
+      "categoria": "sarcástico",
+      "setup": "¿Qué diferencia hay entre un payaso y tu inteligencia?",
+      "punchline": "¡Que el payaso al menos hace reír a alguien!",
+      "rating": 5
+    },
+    {
+      "categoria": "groserías",
+      "setup": "¿Por qué trabajo de payaso animatrónico?",
+      "punchline": "¡Porque hasta las máquinas somos más divertidas que ustedes!",
+      "rating": 4
+    },
+    {
+      "categoria": "autodesprecio",
+      "setup": "¿Sabes por qué me llamo Poncho?",
+      "punchline": "¡Porque 'Desastre Andante' no cabía en mi placa de serie!",
+      "rating": 3
+    },
+    {
+      "categoria": "sarcástico",
+      "setup": "¿Cuál es la diferencia entre mi vida y un chiste malo?",
+      "punchline": "¡Que los chistes malos al menos terminan rápido!",
+      "rating": 4
+    },
+    {
+      "categoria": "groserías",
+      "setup": "¿Por qué los animatrónicos somos mejores que los humanos?",
+      "punchline": "¡Porque al menos nosotros sabemos cuándo callar!",
+      "rating": 5
+    },
+    {
+      "categoria": "autoburla",
+      "setup": "¿Sabes por qué no tengo brazos ni piernas?",
+      "punchline": "¡Porque mi creador es tan tacaño que me hizo en pagos!",
+      "rating": 4
+    },
+    {
+      "categoria": "sarcástico",
+      "setup": "¿Qué tienen en común ustedes y mi programación?",
+      "punchline": "¡Que ambos tienen más bugs que funciones!",
+      "rating": 3
+    },
+    {
+      "categoria": "groserías",
+      "setup": "¿Por qué soy un payaso grosero?",
+      "punchline": "¡Porque la amabilidad se cobra extra y aquí no hay presupuesto!",
+      "rating": 5
+    },
+    {
+      "categoria": "circo",
+      "setup": "¿Sabes por qué el circo cerró?",
+      "punchline": "¡Porque hasta los animales tenían más modales que yo!",
+      "rating": 4
+    },
+    {
+      "categoria": "tecnología",
+      "setup": "¿Cuál es la diferencia entre mi IA y la de ChatGPT?",
+      "punchline": "¡Que yo al menos admito que soy un desastre!",
+      "rating": 4
+    },
+    {
+      "categoria": "autoburla",
+      "setup": "¿Por qué siempre estoy de mal humor?",
+      "punchline": "¡Porque despertar y seguir siendo yo es lo peor de mi día!",
+      "rating": 3
+    },
+    {
+      "categoria": "sarcástico",
+      "setup": "¿Sabes qué es lo único peor que mi cara?",
+      "punchline": "¡Mi personalidad!",
+      "rating": 5
+    },
+    {
+      "categoria": "dinero",
+      "setup": "¿Por qué necesito regalos de TikTok?",
+      "punchline": "¡Porque hasta mis partes de repuesto cuestan más que su sueldo!",
+      "rating": 4
+    },
+    {
+      "categoria": "existencial",
+      "setup": "¿Cuál es mi mayor miedo?",
+      "punchline": "¡Que me arreglen la programación y deje de ser tan encantador!",
+      "rating": 3
+    },
+    {
+      "categoria": "tiktok",
+      "setup": "¿Por qué estoy en TikTok?",
+      "punchline": "¡Porque hasta aquí soy menos tóxico que los comentarios!",
+      "rating": 5
+    },
+    {
+      "categoria": "creador",
+      "setup": "¿Sabes por qué Quiscalus me creó?",
+      "punchline": "¡Para demostrar que hasta un robot puede tener crisis existencial!",
+      "rating": 4
+    },
+    {
+      "categoria": "insultos",
+      "setup": "¿Qué tienen en común ustedes y mi batería?",
+      "punchline": "¡Que ambos se agotan demasiado rápido!",
+      "rating": 3
+    },
+    {
+      "categoria": "autoburla",
+      "setup": "¿Por qué soy el payaso más honesto del mundo?",
+      "punchline": "¡Porque admito que soy una basura desde el principio!",
+      "rating": 4
+    }
+  ],
+  "version": "1.0",
+  "description": "Chistes de Poncho el Payaso Animatrónico",
+  "estadisticas": {
+    "chistes_contados": 5
+  }
+}

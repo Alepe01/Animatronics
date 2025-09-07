@@ -1,0 +1,14 @@
+{
+  "favoritas": [],
+  "reproducciones": {},
+  "configuracion": {
+    "volumen": 80,
+    "modo_aleatorio": true,
+    "repetir": false
+  },
+  "estadisticas": {
+    "canciones_reproducidas": 0,
+    "tiempo_total_reproduccion": 0
+  },
+  "version": "2.0"
+}

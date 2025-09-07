@@ -1,0 +1,19 @@
+
+# INSTRUCCIONES PARA AÑADIR MÚSICA #
+
+1. Coloca tus archivos MP3, WAV u OGG en esta carpeta
+2. Formatos soportados: .mp3, .wav, .ogg
+3. El nombre del archivo será el título de la canción
+4. Ejemplos de nombres:
+   - "Cumpleanos_Feliz.mp3"
+   - "Las_Mananitas.wav"
+   - "Payaso_Loco.mp3"
+
+Canciones sugeridas para Poncho:
+- Canciones de cumpleaños
+- Música de circo/payasos  
+- Canciones populares mexicanas
+- Música divertida o cómica
+- Canciones infantiles
+
+NOTA: Asegúrate de que tienes derechos para usar la música

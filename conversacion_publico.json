@@ -1,0 +1,75 @@
+{
+  "temas_conversacion": [
+    {
+      "titulo": "Vida de Payaso",
+      "descripcion": "Hablemos sobre la vida en el circo",
+      "preguntas_iniciales": [
+        "¿Cómo es ser un payaso profesional?",
+        "¿Cuál es la parte más difícil de tu trabajo?",
+        "¿Siempre quisiste ser payaso?"
+      ]
+    },
+    {
+      "titulo": "Consejos de la Vida",
+      "descripcion": "Poncho da consejos sarcásticos sobre la vida",
+      "preguntas_iniciales": [
+        "¿Cuál es tu consejo para ser feliz?",
+        "¿Cómo superar los problemas?",
+        "¿Qué opinas sobre las redes sociales?"
+      ]
+    },
+    {
+      "titulo": "Experiencias del Circo",
+      "descripcion": "Anécdotas y historias del mundo circense",
+      "preguntas_iniciales": [
+        "¿Cuál fue tu peor actuación?",
+        "¿Tienes miedo a las alturas?",
+        "¿Has tenido accidentes graciosos?"
+      ]
+    },
+    {
+      "titulo": "Preguntas Personales",
+      "descripcion": "El público pregunta lo que quiera",
+      "preguntas_iniciales": [
+        "¿Cuál es tu comida favorita?",
+        "¿Tienes familia?",
+        "¿Qué haces en tu tiempo libre?"
+      ]
+    }
+  ],
+  "respuestas_automaticas": {
+    "saludo": [
+      "¡Hola a todos! Bienvenidos a mi charla, donde la sabiduría es opcional y el sarcasmo es garantizado.",
+      "¡Buenas! Espero que estén listos para una conversación llena de verdades dolorosas y chistes malos.",
+      "¡Saludos, querido público! Prepárense para escuchar opiniones que no pidieron."
+    ],
+    "despedida": [
+      "¡Hasta aquí la charla! Espero haber arruinado su día de manera entretenida.",
+      "¡Nos vemos! Recuerden: la vida es como mi maquillaje, se ve mejor de lejos.",
+      "¡Adiós! Que tengan un día tan bueno como mi humor... es decir, cuestionable."
+    ],
+    "sin_preguntas": [
+      "¿Nadie tiene preguntas? ¡Perfecto! Así me gusta, un público tan callado como inteligente.",
+      "El silencio es oro, pero sus preguntas serían... bueno, tal vez plata.",
+      "¿No hay curiosidad? ¡Excelente! Menos trabajo para mí."
+    ]
+  },
+  "moderacion": {
+    "palabras_prohibidas": [
+      "spam",
+      "publicidad",
+      "enlace"
+    ],
+    "respuestas_moderacion": [
+      "¡Oye! Este es un espacio de conversación, no de spam.",
+      "¿En serio? ¿Publicidad aquí? ¡Más respeto!",
+      "Nada de enlaces raros. Solo conversación civilizada... bueno, más o menos."
+    ]
+  },
+  "estadisticas": {
+    "conversaciones_iniciadas": 0,
+    "preguntas_respondidas": 0,
+    "participantes_unicos": 0
+  },
+  "version": "2.0"
+}

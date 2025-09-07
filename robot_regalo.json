@@ -1,0 +1,88 @@
+{
+  "frases_agradecimiento": {
+    "general": [
+      "¡INCREÍBLE! ¡Muchísimas gracias por este regalo! ¡Eres fantástico!",
+      "¡WOW! ¡No puedo creer lo generoso que eres! ¡Que tengas un día maravilloso!",
+      "¡ESPECTACULAR! ¡Este regalo me llena de alegría! ¡Bendiciones para ti!",
+      "¡GENIAL! ¡Tu generosidad me emociona muchísimo! ¡Que todo te salga perfecto!",
+      "¡FANTÁSTICO! ¡Gracias de todo corazón! ¡Eres una persona increíble!",
+      "¡MARAVILLOSO! ¡No sabes cuánto aprecio este gesto! ¡Que se cumplan todos tus sueños!",
+      "¡SÚPER! ¡Tu regalo me da tanta energía positiva! ¡Que la vida te sonría siempre!",
+      "¡FABULOSO! ¡Gracias por ser tan especial! ¡Que tengas mucha suerte y felicidad!"
+    ],
+    "regalos_pequeños": [
+      "¡Qué detalle tan hermoso! ¡Los regalos pequeños tienen el corazón más grande!",
+      "¡Me encanta! ¡No importa el tamaño, importa el amor que pones! ¡Gracias!",
+      "¡Perfecto! ¡Tu gesto me llena de felicidad! ¡Que tengas un día espectacular!",
+      "¡Adorable! ¡Con regalos como estos el mundo es más bonito! ¡Bendiciones!",
+      "¡Precioso! ¡Tu generosidad brilla más que cualquier regalo grande! ¡Gracias!"
+    ],
+    "regalos_grandes": [
+      "¡¡¡INCREÍBLE!!! ¡¡¡NO PUEDO CREER TANTA GENEROSIDAD!!! ¡¡¡ERES INCREÍBLE!!!",
+      "¡¡¡WOW WOW WOW!!! ¡¡¡Este regalo me tiene saltando de emoción!!! ¡¡¡GRACIAS!!!",
+      "¡¡¡ESPECTACULAR!!! ¡¡¡Tu corazón es tan grande como este regalo!!! ¡¡¡BENDICIONES!!!",
+      "¡¡¡FANTÁSTICO!!! ¡¡¡No tengo palabras para tanta bondad!!! ¡¡¡QUE DIOS TE BENDIGA!!!",
+      "¡¡¡SÚPER MEGA GENIAL!!! ¡¡¡Eres la persona más generosa del mundo!!! ¡¡¡GRACIAS!!!"
+    ],
+    "regalos_especiales": [
+      "¡ROSA ESPECIAL! ¡Tu detalle me llena el corazón de amor! ¡Que encuentres tu felicidad!",
+      "¡LEÓN REAL! ¡Con tu fuerza y generosidad haces el mundo mejor! ¡Gracias!",
+      "¡REGALO ÚNICO! ¡Tu originalidad me inspira! ¡Que tengas éxito en todo!",
+      "¡REGALO MÁGICO! ¡Tu energía positiva me contagia! ¡Que la magia te acompañe!"
+    ]
+  },
+  "bendiciones_personalizadas": [
+    "¡Que tengas salud, amor y prosperidad!",
+    "¡Que se cumplan todos tus deseos más bonitos!",
+    "¡Que la felicidad te acompañe siempre!",
+    "¡Que tengas mucha suerte en todo lo que hagas!",
+    "¡Que encuentres la paz y la alegría que mereces!",
+    "¡Que tus sueños se hagan realidad pronto!",
+    "¡Que la vida te devuelva toda tu generosidad multiplicada!",
+    "¡Que tengas éxito y abundancia en todo!",
+    "¡Que cada día sea mejor que el anterior!",
+    "¡Que la luz siempre ilumine tu camino!"
+  ],
+  "respuestas_streak": {
+    "2": "¡DOS REGALOS! ¡La generosidad se está contagiando! ¡Me encanta!",
+    "3": "¡TRES REGALOS SEGUIDOS! ¡Este chat está lleno de corazones hermosos!",
+    "5": "¡CINCO REGALOS! ¡Ustedes son increíbles! ¡Tanta bondad me emociona!",
+    "10": "¡¡¡DIEZ REGALOS!!! ¡¡¡No puedo creer tanta generosidad!!! ¡¡¡LOS AMO A TODOS!!!",
+    "15": "¡¡¡QUINCE REGALOS!!! ¡¡¡ESTE ES EL MEJOR DÍA DE MI VIDA!!! ¡¡¡GRACIAS UNIVERSO!!!"
+  },
+  "reacciones_combo": [
+    "¡COMBO DE BONDAD! ¡Varios regalos juntos! ¡Mi corazón va a explotar de felicidad!",
+    "¡LLUVIA DE REGALOS! ¡No sé a quién agradecer primero! ¡Los amo a todos!",
+    "¡FESTIVAL DE GENEROSIDAD! ¡Ustedes hacen que crea en la humanidad!",
+    "¡AVALANCHA DE AMOR! ¡Tantos regalos que no puedo parar de sonreír!"
+  ],
+  "estadisticas": {
+    "total_regalos": 9,
+    "regalos_por_tipo": {},
+    "usuarios_mas_generosos": {},
+    "mejor_racha": 3,
+    "total_bendiciones_dadas": 9
+  },
+  "configuracion": {
+    "energia_maxima": true,
+    "siempre_positivo": true,
+    "mencionar_nombres": true,
+    "dar_bendiciones": true
+  },
+  "version": "2.0",
+  "estadisticas.regalos_por_tipo": {
+    "Pulgar arriba": 1,
+    "Wave Firework": 2,
+    "White Rose": 1,
+    "Invincible Gorilla": 1,
+    "Heart Me": 2,
+    "Rose": 1,
+    "It's corn": 1
+  },
+  "estadisticas.usuarios_mas_generosos": {
+    "Donador1": 1,
+    "pedro": 6,
+    "Mil": 1,
+    "jesus": 1
+  }
+}
